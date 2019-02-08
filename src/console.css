@@ -1,0 +1,19 @@
+body {
+background-image: url('./space.jpg');
+background-position: center;
+background-size: cover;
+background-repeat: no-repeat;
+height: 700px;
+}
+
+.console{
+border-radius: 25px;
+box-shadow: 10px 15px 50px #5c5956 ;
+
+margin : 75px;
+background-color: #201F20;
+min-width: 80%;
+min-height: 600px;
+opacity: .8 ;
+
+}
